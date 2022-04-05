@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConCalc", "ConCalc\ConCalc.csproj", "{0418463A-CC67-4BFD-AC55-BF05260B26C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0418463A-CC67-4BFD-AC55-BF05260B26C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0418463A-CC67-4BFD-AC55-BF05260B26C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0418463A-CC67-4BFD-AC55-BF05260B26C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0418463A-CC67-4BFD-AC55-BF05260B26C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8910774C-A3BD-42D6-8435-33015CF880DE}
+	EndGlobalSection
+EndGlobal
